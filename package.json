@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "react-chat",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -7,8 +7,15 @@
     "build": "react-scripts build"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^2.0.19",
+    "@chakra-ui/react": "^2.6.0",
+    "@emotion/react": "^11.10.8",
+    "@emotion/styled": "^11.10.8",
+    "axios": "^1.4.0",
+    "framer-motion": "^10.12.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.0",
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {
